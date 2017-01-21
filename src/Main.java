@@ -19,6 +19,7 @@ public class Main {
 
         //напишите тут ваш код
         System.out.println(maximum);
+        System.out.println("qwqeqweqwe");
     }
 }
 
